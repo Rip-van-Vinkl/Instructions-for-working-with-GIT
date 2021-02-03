@@ -7,8 +7,8 @@ LICENSE: [MIT](./license.md)
 ---
 
 ## Содержание:
-### 1. [Ведение](./conductio.md)
-### 2. Основные команды
+### 1. [Ведение](./сonduction.md)
+### 2. Основные команды:
   * [add.md](./commands/add.md)
   * [status.md](./commands/status)
   * [commit.md](./commands/commit)
@@ -18,6 +18,9 @@ LICENSE: [MIT](./license.md)
   * [rm.md](./commands/rm)
   * [rm.mекпу](./commands/merge)
 ### 3. [Что такое GitHub](./github.md)
+
+---
+Author:  *Rip-van-Vinkl* - e.mail: bookdiler@yandex.ru
 
 ---
 
