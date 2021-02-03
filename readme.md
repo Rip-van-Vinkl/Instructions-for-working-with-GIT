@@ -6,11 +6,18 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### Содержание:
-
-1. Что-то
-2. [git add](./add.md)
-3. Что-то ещё
+## Содержание:
+### 1. [Ведение](./conductio.md)
+### 2. Основные команды
+  * [add.md](./commands/add.md)
+  * [status.md](./commands/status)
+  * [commit.md](./commands/commit)
+  * [diff.md](./commands/diff)
+  * [log.md](./commands/log)
+  * [reset.md](./commands/reset)
+  * [rm.md](./commands/rm)
+  * [rm.mекпу](./commands/merge)
+### 3. [Что такое GitHub](./github.md)
 
 ---
 
